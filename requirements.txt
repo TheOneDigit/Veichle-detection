@@ -1,0 +1,5 @@
+opencv-contrib-python==4.5.4.60
+numpy
+imutils
+opencv-python-headless
+moviepy
